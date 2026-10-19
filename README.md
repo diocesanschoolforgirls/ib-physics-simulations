@@ -2,7 +2,7 @@
 
 Small interactive aids for IB Diploma Physics. Each one covers a single concept: explore it, quiz yourself on it, and see how the quantities relate.
 
-**Live:** https://diocesanschoolforgirls.github.io/ib-physics-simulations/
+**Live:** https://interactives.diocesan.school.nz/ib-physics-simulations/
 
 Every simulation is a single self-contained HTML file: no dependencies, no build step. Open any of them directly in a browser, or copy one and share it.
 
@@ -30,7 +30,7 @@ Every simulation is a single self-contained HTML file: no dependencies, no build
 
 Each folder has a short `index.html` that redirects to the simulation, so the folder address works as an embed link, for example:
 
-    https://diocesanschoolforgirls.github.io/ib-physics-simulations/lenz-law/
+    https://interactives.diocesan.school.nz/ib-physics-simulations/lenz-law/
 
 ## Source
 
